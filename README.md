@@ -1,6 +1,6 @@
 <h1>Hi 👋! I'm Abhishek Sharma</h1>
 
-💻 Frontend Developer | ✨ Wordpress Developer | 
+💻 Frontend Developer | ✨ Wordpress Developer | Shopify Developer
 
 
 <h2>🚀 About Me</h2>
