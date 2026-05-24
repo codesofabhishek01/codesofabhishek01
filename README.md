@@ -1,9 +1,9 @@
-<h2>Hi 👋! I'm Abhishek Sharma</h2>
+<h1>Hi 👋! I'm Abhishek Sharma</h1>
 
 💻 Frontend Developer | ✨ Wordpress Developer | 
 
 
-<h4>🚀 About Me</h4>
+<h2>🚀 About Me</h2>
 <ul>
 <li>🌐 Portfolio: codesofabhishek.netlify.app</li>
 <li>🛠️ Skilled in HTML, CSS, Tailwind, Bootstrap, React.js,  GSAP, Wordpress, Shopify,  </li>
