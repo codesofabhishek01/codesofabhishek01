@@ -5,7 +5,7 @@
 
 <h2>🚀 About Me</h2>
 <ul>
-<li>🌐 Portfolio: codesofabhishek.netlify.app</li>
+<li>🌐 Portfolio: <a href="https://codesofabhishek.netlify.app/">codesofabhishek.in</a>a></li>
 <li>🛠️ Skilled in HTML, CSS, Tailwind, Bootstrap, React.js,  GSAP, Wordpress, Shopify,  </li>
 <li>🎨 Passionate about creating smooth frontend animations & modern UIs</li>
 <li>🌱 Exploring advanced 3D web experiences</li>
